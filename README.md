@@ -12,7 +12,7 @@ Every exercise in this assignment has a reference to a .MD file in the /exercise
 info file before you start solving the exercise tasks.
 
 ## HOW IT WORKS
-- The repo has the "exercises" folder with 4 exercise files (e1.js, e2.js, ... etc). Each file includes the 
+- The repo has the "exercises" folder with 4 exercise files (e1.js, e2.js, ... etc). Each file includes the
 task/tasks description, and a placeholder for your code.
 - Descriptions for every next exercise is located in /exercise-info/ folder
 - Open e1.js file and start writing function code in the "Your code goes here..." placeholder to achieve the goals described.

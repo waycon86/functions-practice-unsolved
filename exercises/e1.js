@@ -12,7 +12,9 @@
  * Message to print: 'Hello, World!'
  * logMessage() => 'Hello, World!'
 */
-
+function logMessage() {
+  console.log('Hello, World!');
+}
 // Your code goes here
 
 
@@ -30,6 +32,9 @@
 */
 
 // Your code goes here...
+function logMyMessage(message) {
+  console.log(message);
+}
 
 
 
@@ -45,7 +50,9 @@
 */
 
 // Your code goes here...
-
+function logMessageWithMyName(name){
+  console.log(`My name is ${name}!`);
+}
 
 
 
@@ -59,7 +66,9 @@
   * The age is a number value passed as an argument.
  * logMyInfo('Andrey', 18) => 'My name is Andrey. I am 18 years old!'
 */
-
+function logMyInfo(name, age) {
+  console.log(`My name is ${name}. I am ${age} years old!`);
+}
 // Your code goes here...
 
 
